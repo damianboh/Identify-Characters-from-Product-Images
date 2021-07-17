@@ -2,7 +2,7 @@ This is a contest submission from CrowdANALYTIX (awarded 4th place overall) http
 
 Medium article explanation here: https://towardsdatascience.com/how-i-won-top-five-in-a-deep-learning-competition-753c788cade1
 
-Enjoy!
+Enjoy! :)
 
 Folders:
 1.	‘train’ is the original training set, this folder is required for ‘scrap image from google.ipynb’ python Jupyter notebook to work as the notebook reads the labels of the subolders to use as search queries. (refer to notebook for details).
