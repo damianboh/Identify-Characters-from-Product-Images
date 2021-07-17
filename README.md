@@ -1,4 +1,5 @@
 This is a contest submission from CrowdANALYTIX (awarded 4th place overall) https://www.crowdanalytix.com/contests/identify-characters-from-product-images
+
 Medium article explanation here: https://towardsdatascience.com/how-i-won-top-five-in-a-deep-learning-competition-753c788cade1
 
 Enjoy!
